@@ -38,6 +38,8 @@ individual-project-jash-05 created by GitHub Classroom
 
 
 ## Class Diagram
+![ClassDiagram](https://user-images.githubusercontent.com/32708739/144808416-a1960499-7c74-4420-a676-5c183da277eb.jpeg)
+
 
 ## Design Patterns used
 - State (Behavioral design pattern)
