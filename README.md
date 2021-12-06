@@ -40,3 +40,5 @@ individual-project-jash-05 created by GitHub Classroom
 ## Class Diagram
 
 ## Design Patterns used
+- State (Behavioral design pattern)
+- Singleton (Creational design pattern)
